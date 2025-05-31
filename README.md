@@ -4,7 +4,7 @@ Welcome to my personal developer portfolio built using HTML, Tailwind CSS, and J
 This project showcases my work, skills, and experience as a front-end web developer.
 It's fully responsive and uses AOS (Animate On Scroll) for sleek animations. 
 
-Live preview: [View Website](karan-sahu.netlify.app)
+Live preview: [View Website](https://karan-sahu.netlify.app/)
 
 
 ## 🛠️ Built With
